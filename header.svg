@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Parsa Mansouri, co-founder of Kagu Software">
+  
+  <defs>
+    <linearGradient id="hd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#06101F"/>
+    </linearGradient>
+    <radialGradient id="hd-glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#3D7BFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3D7BFF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="hd-clip"><rect width="1200" height="400" rx="20"/></clipPath>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="url(#hd)"/>
+  <rect width="1200" height="400" rx="20" fill="url(#hd-glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="20" fill="none" stroke="#1C2B4A"/>
+  <g clip-path="url(#hd-clip)" fill="#5C6C8C" fill-opacity="0.35"><circle cx="48" cy="48" r="1" /><circle cx="48" cy="96" r="1" /><circle cx="48" cy="144" r="1" /><circle cx="48" cy="192" r="1" /><circle cx="48" cy="240" r="1" /><circle cx="48" cy="288" r="1" /><circle cx="48" cy="336" r="1" /><circle cx="48" cy="384" r="1" /><circle cx="96" cy="48" r="1" /><circle cx="96" cy="96" r="1" /><circle cx="96" cy="144" r="1" /><circle cx="96" cy="192" r="1" /><circle cx="96" cy="240" r="1" /><circle cx="96" cy="288" r="1" /><circle cx="96" cy="336" r="1" /><circle cx="96" cy="384" r="1" /><circle cx="144" cy="48" r="1" /><circle cx="144" cy="96" r="1" /><circle cx="144" cy="144" r="1" /><circle cx="144" cy="192" r="1" /><circle cx="144" cy="240" r="1" /><circle cx="144" cy="288" r="1" /><circle cx="144" cy="336" r="1" /><circle cx="144" cy="384" r="1" /><circle cx="192" cy="48" r="1" /><circle cx="192" cy="96" r="1" /><circle cx="192" cy="144" r="1" /><circle cx="192" cy="192" r="1" /><circle cx="192" cy="240" r="1" /><circle cx="192" cy="288" r="1" /><circle cx="192" cy="336" r="1" /><circle cx="192" cy="384" r="1" /><circle cx="240" cy="48" r="1" /><circle cx="240" cy="96" r="1" /><circle cx="240" cy="144" r="1" /><circle cx="240" cy="192" r="1" /><circle cx="240" cy="240" r="1" /><circle cx="240" cy="288" r="1" /><circle cx="240" cy="336" r="1" /><circle cx="240" cy="384" r="1" /><circle cx="288" cy="48" r="1" /><circle cx="288" cy="96" r="1" /><circle cx="288" cy="144" r="1" /><circle cx="288" cy="192" r="1" /><circle cx="288" cy="240" r="1" /><circle cx="288" cy="288" r="1" /><circle cx="288" cy="336" r="1" /><circle cx="288" cy="384" r="1" /><circle cx="336" cy="48" r="1" /><circle cx="336" cy="96" r="1" /><circle cx="336" cy="144" r="1" /><circle cx="336" cy="192" r="1" /><circle cx="336" cy="240" r="1" /><circle cx="336" cy="288" r="1" /><circle cx="336" cy="336" r="1" /><circle cx="336" cy="384" r="1" /><circle cx="384" cy="48" r="1" /><circle cx="384" cy="96" r="1" /><circle cx="384" cy="144" r="1" /><circle cx="384" cy="192" r="1" /><circle cx="384" cy="240" r="1" /><circle cx="384" cy="288" r="1" /><circle cx="384" cy="336" r="1" /><circle cx="384" cy="384" r="1" /><circle cx="432" cy="48" r="1" /><circle cx="432" cy="96" r="1" /><circle cx="432" cy="144" r="1" /><circle cx="432" cy="192" r="1" /><circle cx="432" cy="240" r="1" /><circle cx="432" cy="288" r="1" /><circle cx="432" cy="336" r="1" /><circle cx="432" cy="384" r="1" /><circle cx="480" cy="48" r="1" /><circle cx="480" cy="96" r="1" /><circle cx="480" cy="144" r="1" /><circle cx="480" cy="192" r="1" /><circle cx="480" cy="240" r="1" /><circle cx="480" cy="288" r="1" /><circle cx="480" cy="336" r="1" /><circle cx="480" cy="384" r="1" /><circle cx="528" cy="48" r="1" /><circle cx="528" cy="96" r="1" /><circle cx="528" cy="144" r="1" /><circle cx="528" cy="192" r="1" /><circle cx="528" cy="240" r="1" /><circle cx="528" cy="288" r="1" /><circle cx="528" cy="336" r="1" /><circle cx="528" cy="384" r="1" /><circle cx="576" cy="48" r="1" /><circle cx="576" cy="96" r="1" /><circle cx="576" cy="144" r="1" /><circle cx="576" cy="192" r="1" /><circle cx="576" cy="240" r="1" /><circle cx="576" cy="288" r="1" /><circle cx="576" cy="336" r="1" /><circle cx="576" cy="384" r="1" /><circle cx="624" cy="48" r="1" /><circle cx="624" cy="96" r="1" /><circle cx="624" cy="144" r="1" /><circle cx="624" cy="192" r="1" /><circle cx="624" cy="240" r="1" /><circle cx="624" cy="288" r="1" /><circle cx="624" cy="336" r="1" /><circle cx="624" cy="384" r="1" /><circle cx="672" cy="48" r="1" /><circle cx="672" cy="96" r="1" /><circle cx="672" cy="144" r="1" /><circle cx="672" cy="192" r="1" /><circle cx="672" cy="240" r="1" /><circle cx="672" cy="288" r="1" /><circle cx="672" cy="336" r="1" /><circle cx="672" cy="384" r="1" /><circle cx="720" cy="48" r="1" /><circle cx="720" cy="96" r="1" /><circle cx="720" cy="144" r="1" /><circle cx="720" cy="192" r="1" /><circle cx="720" cy="240" r="1" /><circle cx="720" cy="288" r="1" /><circle cx="720" cy="336" r="1" /><circle cx="720" cy="384" r="1" /><circle cx="768" cy="48" r="1" /><circle cx="768" cy="96" r="1" /><circle cx="768" cy="144" r="1" /><circle cx="768" cy="192" r="1" /><circle cx="768" cy="240" r="1" /><circle cx="768" cy="288" r="1" /><circle cx="768" cy="336" r="1" /><circle cx="768" cy="384" r="1" /><circle cx="816" cy="48" r="1" /><circle cx="816" cy="96" r="1" /><circle cx="816" cy="144" r="1" /><circle cx="816" cy="192" r="1" /><circle cx="816" cy="240" r="1" /><circle cx="816" cy="288" r="1" /><circle cx="816" cy="336" r="1" /><circle cx="816" cy="384" r="1" /><circle cx="864" cy="48" r="1" /><circle cx="864" cy="96" r="1" /><circle cx="864" cy="144" r="1" /><circle cx="864" cy="192" r="1" /><circle cx="864" cy="240" r="1" /><circle cx="864" cy="288" r="1" /><circle cx="864" cy="336" r="1" /><circle cx="864" cy="384" r="1" /><circle cx="912" cy="48" r="1" /><circle cx="912" cy="96" r="1" /><circle cx="912" cy="144" r="1" /><circle cx="912" cy="192" r="1" /><circle cx="912" cy="240" r="1" /><circle cx="912" cy="288" r="1" /><circle cx="912" cy="336" r="1" /><circle cx="912" cy="384" r="1" /><circle cx="960" cy="48" r="1" /><circle cx="960" cy="96" r="1" /><circle cx="960" cy="144" r="1" /><circle cx="960" cy="192" r="1" /><circle cx="960" cy="240" r="1" /><circle cx="960" cy="288" r="1" /><circle cx="960" cy="336" r="1" /><circle cx="960" cy="384" r="1" /><circle cx="1008" cy="48" r="1" /><circle cx="1008" cy="96" r="1" /><circle cx="1008" cy="144" r="1" /><circle cx="1008" cy="192" r="1" /><circle cx="1008" cy="240" r="1" /><circle cx="1008" cy="288" r="1" /><circle cx="1008" cy="336" r="1" /><circle cx="1008" cy="384" r="1" /><circle cx="1056" cy="48" r="1" /><circle cx="1056" cy="96" r="1" /><circle cx="1056" cy="144" r="1" /><circle cx="1056" cy="192" r="1" /><circle cx="1056" cy="240" r="1" /><circle cx="1056" cy="288" r="1" /><circle cx="1056" cy="336" r="1" /><circle cx="1056" cy="384" r="1" /><circle cx="1104" cy="48" r="1" /><circle cx="1104" cy="96" r="1" /><circle cx="1104" cy="144" r="1" /><circle cx="1104" cy="192" r="1" /><circle cx="1104" cy="240" r="1" /><circle cx="1104" cy="288" r="1" /><circle cx="1104" cy="336" r="1" /><circle cx="1104" cy="384" r="1" /><circle cx="1152" cy="48" r="1" /><circle cx="1152" cy="96" r="1" /><circle cx="1152" cy="144" r="1" /><circle cx="1152" cy="192" r="1" /><circle cx="1152" cy="240" r="1" /><circle cx="1152" cy="288" r="1" /><circle cx="1152" cy="336" r="1" /><circle cx="1152" cy="384" r="1" /></g>
+
+  <!-- Kagu logo, traced from the brand mark -->
+  <g transform="translate(870 140) scale(0.3) translate(-130 -370)">
+    <!-- lower body -->
+    <path d="M620 670 H800 L975 830 H830 Q790 830 765 805 L620 670 Z" fill="#3D7BFF" fill-opacity="0.75"/>
+    <!-- tail band -->
+    <polygon points="225,505 450,505 660,710 440,710" fill="#7FB0FF" fill-opacity="0.85"/>
+    <!-- tail tip -->
+    <polygon points="225,505 130,610 330,610" fill="#3D7BFF"/>
+    <!-- wing -->
+    <path d="M860 370 H1130 L765 710 H465 L800 395 Q825 370 860 370 Z" fill="#F2F5FA"/>
+  </g>
+
+  <!-- mono label -->
+  <text x="72" y="92" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="3.5" fill="#8A99B8">
+    <tspan>CO-FOUNDER · KAGU SOFTWARE</tspan>
+    <tspan fill="#5C6C8C"> · </tspan>
+    <tspan>ISTANBUL</tspan>
+  </text>
+
+  <!-- headline -->
+  <text x="66" y="215" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="118" letter-spacing="-4" fill="#F2F5FA">PARSA</text>
+  <text x="66" y="318" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="118" letter-spacing="-4" fill="#3D7BFF">MANSOURI</text>
+
+  <!-- accent underline that draws in -->
+  <line x1="72" y1="342" x2="72" y2="342" stroke="#3D7BFF" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="x2" from="72" to="372" dur="0.9s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.1 1"/>
+  </line>
+
+  <!-- right-side one-liner -->
+  <g font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#8A99B8">
+    <text x="905" y="320">I build operator software for</text>
+    <text x="905" y="346">small businesses — and ship it.</text>
+  </g>
+</svg>

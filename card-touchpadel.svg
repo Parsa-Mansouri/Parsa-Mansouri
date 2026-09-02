@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="250" viewBox="0 0 590 250" role="img" aria-label="Touch Padel">
+  
+  <defs>
+    <linearGradient id="ctouchpadel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#06101F"/>
+    </linearGradient>
+    <radialGradient id="ctouchpadel-glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#3D7BFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3D7BFF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="ctouchpadel-clip"><rect width="590" height="250" rx="16"/></clipPath>
+  </defs>
+  <rect width="590" height="250" rx="16" fill="url(#ctouchpadel)"/>
+  <rect width="590" height="250" rx="16" fill="url(#ctouchpadel-glow)"/>
+  <rect x="0.5" y="0.5" width="589" height="249" rx="16" fill="none" stroke="#1C2B4A"/>
+  <rect x="0" y="0" width="5" height="250" fill="#3D7BFF" clip-path="url(#ctouchpadel-clip)"/>
+  <text x="30" y="53" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2.5" fill="#7FB0FF">01  /  VENUE SYSTEM</text>
+  <g font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2">
+    <circle cx="515" cy="49" r="3.5" fill="#3DDC97">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="560" y="53" text-anchor="end" fill="#3DDC97">LIVE</text>
+  </g>
+  <text x="30" y="86" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="24" letter-spacing="-0.5" fill="#F2F5FA">Touch Padel</text>
+  <text x="30" y="112" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8A99B8">Full system for a padel club in Iraq: guest booking app,</text><text x="30" y="134" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8A99B8">public site with QR café ordering, and a Windows operator</text><text x="30" y="156" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8A99B8">app (till · desk · kitchen · stock) on one Postgres. EN/AR,</text><text x="30" y="178" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8A99B8">full RTL, keeps working when the venue's internet drops.</text>
+  
+  <rect x="30" y="188" width="66" height="26" rx="6" fill="#3D7BFF" fill-opacity="0.10" stroke="#3D7BFF" stroke-opacity="0.35"/>
+  <text x="63" y="205" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#7FB0FF">Next.js</text>
+  <rect x="104" y="188" width="103" height="26" rx="6" fill="#3D7BFF" fill-opacity="0.10" stroke="#3D7BFF" stroke-opacity="0.35"/>
+  <text x="155" y="205" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#7FB0FF">React Native</text>
+  <rect x="215" y="188" width="73" height="26" rx="6" fill="#3D7BFF" fill-opacity="0.10" stroke="#3D7BFF" stroke-opacity="0.35"/>
+  <text x="251" y="205" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#7FB0FF">Supabase</text>
+  <rect x="296" y="188" width="66" height="26" rx="6" fill="#3D7BFF" fill-opacity="0.10" stroke="#3D7BFF" stroke-opacity="0.35"/>
+  <text x="329" y="205" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#7FB0FF">PostHog</text>
+  <text x="560" y="206" text-anchor="end" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#8A99B8">VIEW REPO  →</text>
+</svg>

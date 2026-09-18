@@ -24,13 +24,18 @@ PINK    = "#FF7AB6"
 SANS = "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
 MONO = "'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace"
 
-# real data, read off the GitHub contribution calendar (Sep 2025 to Sep 2026)
-LEVELS = ("0000010011111101011100011000000001000000000000100000000002001000011030000000001101110"
-          "0011111122321344331022000100000000000000000000000000000000010000011100101110011100001"
-          "0000000000010000001011121111112112111001000000001031131212302110211110111221111110111"
-          "1101011121100001010100001000002121111111233114322222111112112111111110111111110111112"
-          "1111111141114211211123")
-TOTAL_YEAR = "2,299"
+# Live contribution data. refresh.py rewrites data.json from my public calendar
+# once a day and re-runs this file, so the graph below is never stale.
+import json
+from datetime import date, datetime, timedelta
+
+_D = json.loads((OUT / "data.json").read_text())
+LEVELS      = _D["levels"]
+TOTAL_YEAR  = _D["total_year"]
+FIRST_DATE  = datetime.strptime(_D["first_date"], "%Y-%m-%d").date()
+THIS_MONTH  = str(_D["this_month"])
+STREAK      = str(_D["streak"])
+ACTIVE      = str(_D["active"])
 
 
 def esc(s):
@@ -184,10 +189,10 @@ def stats():
     w, h = 1200, 132
     gid = "st"
     items = [
-        (TOTAL_YEAR, "CONTRIBUTIONS", "in the last 12 months"),
+        (TOTAL_YEAR, "IN THE LAST YEAR", "commits, reviews, issues, PRs"),
         ("40+", "REPOS SHIPPED", "across the Kagu org"),
         ("30+", "LIVE DEPLOYMENTS", "clients and products, in production"),
-        ("287", "COMMITS THIS MONTH", "10 repositories, September 2026"),
+        (THIS_MONTH, "CONTRIBUTIONS", date.today().strftime("so far in %B %Y")),
     ]
     cell = w / len(items)
     out = []
@@ -247,14 +252,20 @@ def heat():
             f'<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="{d:.2f}s" fill="freeze"/></rect>'
         )
 
-    months = ["SEP", "OCT", "NOV", "DEC", "JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP"]
-    mlabels = "".join(
-        f'<text x="{grid_x + (i*4.33)*step:.0f}" y="{top-14}" font-family="{MONO}" font-size="10" '
-        f'letter-spacing="1.6" fill="{DIM}">{m}</text>'
-        for i, m in enumerate(months)
-    )
+    mlabels, seen = [], set()
+    for col in range(cols):
+        d = FIRST_DATE + timedelta(days=col * 7)
+        key = (d.year, d.month)
+        if key in seen or (col and d.day > 7):
+            continue
+        seen.add(key)
+        mlabels.append(
+            f'<text x="{grid_x + col*step:.0f}" y="{top-14}" font-family="{MONO}" font-size="10" '
+            f'letter-spacing="1.6" fill="{DIM}">{d.strftime("%b").upper()}</text>'
+        )
+    mlabels = "".join(mlabels)
 
-    facts = [(f"{best}", "DAY STREAK"), (f"{active}", "ACTIVE DAYS"), ("287", "THIS MONTH")]
+    facts = [(STREAK, "DAY STREAK"), (ACTIVE, "ACTIVE DAYS"), (THIS_MONTH, "THIS MONTH")]
     fx = w - pad_x
     fact_svg = []
     for big, lab in reversed(facts):
@@ -295,7 +306,7 @@ def heat():
 <text x="{legend_x}" y="{h-26}" font-family="{MONO}" font-size="10.5" letter-spacing="1.8" fill="{DIM}">LESS</text>
 {legend}
 <text x="{legend_x + 143}" y="{h-26}" font-family="{MONO}" font-size="10.5" letter-spacing="1.8" fill="{DIM}">MORE</text>
-<text x="{pad_x}" y="{h-26}" font-family="{MONO}" font-size="10.5" letter-spacing="1.8" fill="{DIM}">SEP 2025 / SEP 2026</text>
+<text x="{pad_x}" y="{h-26}" font-family="{MONO}" font-size="10.5" letter-spacing="1.8" fill="{DIM}">{FIRST_DATE.strftime("%b %Y").upper()} / {(FIRST_DATE + timedelta(days=len(LEVELS)-1)).strftime("%b %Y").upper()}</text>
 {border(w, h, 18)}
 </svg>
 """

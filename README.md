@@ -1,29 +1,43 @@
-<a href="https://kagusoftware.com"><img src="header.svg" alt="Parsa Mansouri — Co-founder, Kagu Software" width="100%"></a>
+<a href="https://kagusoftware.com"><img src="header.svg" alt="Parsa Mansouri, co-founder of Kagu Software, Istanbul" width="100%"></a>
 
 <br>
 
-I'm the co-founder of **[Kagu Software](https://kagusoftware.com)** (`@KaguSoftware`), an Istanbul studio that builds operator software for small businesses — booking systems, back-office "OS" platforms, digital menus, and the websites that sit in front of them. Most of what we ship is **Next.js + Supabase on Vercel** for the web and **Expo / React Native** for mobile, and it goes to production the same week it's built.
+I'm the co-founder of **[Kagu Software](https://kagusoftware.com)** (`@KaguSoftware`), an Istanbul studio that builds operator software for small businesses: booking systems, back office platforms, digital menus, and the sites that sit in front of them. Most of it is **Next.js + Supabase on Vercel** for web and **Expo / React Native** for mobile, and it reaches production the same week it's written.
 
-I run the build side of Kagu end to end: scoping with the client, architecture, the code, deployment, and the paid-social campaigns that bring people to it afterwards. Alongside that I hold a full-time role on a software project-management team and I'm finishing my degree — so if you're wondering whether the 1,400+ contributions this year are real, they are.
-
-<br>
-
-<img src="stats.svg" alt="40+ repos shipped · 1.4k+ contributions in 2026 · 30+ live deployments · TypeScript" width="100%">
+I run the build side end to end. Scoping with the client, architecture, the code, the deploys, and the paid social that brings people to it afterwards. Alongside that I hold a full time role on a software project management team and I'm finishing my Software Engineering degree at Bahcesehir University. The graph below is not a bot.
 
 <br>
 
-## Selected work
+<img src="stats.svg" alt="2,299 contributions in the last 12 months, 40+ repos shipped, 30+ live deployments, 287 commits this month" width="100%">
+
+<br>
+
+<img src="heat.svg" alt="Contribution heatmap for the last year: 2,299 contributions, 39 day streak, 197 active days" width="100%">
+
+<br>
+
+## The work
 
 <p align="center">
-  <a href="https://github.com/KaguSoftware/TouchPadel"><img src="card-touchpadel.svg" alt="Touch Padel — venue system" width="49%"></a>
-  <a href="https://github.com/KaguSoftware/KaguOs"><img src="card-kaguos.svg" alt="KaguOS — internal ops system" width="49%"></a>
+<a href="https://github.com/KaguSoftware/TouchPadel"><img src="card-touchpadel.svg" alt="Touch Padel, a full venue operating system" width="49%"></a>
+<a href="https://github.com/KaguSoftware/KaguOs"><img src="card-kaguos.svg" alt="KaguOS, the studio's internal operating system" width="49%"></a>
 </p>
 <p align="center">
-  <a href="https://upperdeckk.com"><img src="card-upperdeck.svg" alt="UpperDeck — digital menu and site" width="49%"></a>
-  <a href="https://github.com/KaguSoftware/TurkCure"><img src="card-turkcure.svg" alt="TurkCure — health-tourism operations system" width="49%"></a>
+<a href="https://upperdeckk.com"><img src="card-upperdeck.svg" alt="UpperDeck, digital menu and website" width="49%"></a>
+<a href="https://github.com/KaguSoftware/TurkCure"><img src="card-turkcure.svg" alt="TurkCure Ops, health tourism back office" width="49%"></a>
 </p>
 
-The full list — 40+ repos across hospitality, real estate, driving schools, health tourism, visa consulting and a few products of our own — lives at **[github.com/KaguSoftware](https://github.com/KaguSoftware)**.
+That's four of roughly forty. The rest, across hospitality, real estate, driving schools, health tourism and visa consulting, lives at **[github.com/KaguSoftware](https://github.com/KaguSoftware)**.
+
+<br>
+
+## The stack, on repeat
+
+<img src="stack.svg" alt="TypeScript, Next.js, React, React Native, Expo, Tailwind, Supabase, PostgreSQL, Vercel, Turborepo and more" width="100%">
+
+<br>
+
+<img src="terminal.svg" alt="A build and deploy from a normal day" width="100%">
 
 <br>
 
@@ -32,21 +46,20 @@ The full list — 40+ repos across hospitality, real estate, driving schools, he
 | | |
 |---|---|
 | **Web** | Next.js (App Router) · React · TypeScript · Tailwind |
-| **Mobile** | Expo · React Native · native Google / Apple sign-in |
-| **Backend** | Supabase (Postgres, Auth, RLS, Storage) · PostHog |
-| **Ship** | Vercel · GitHub · continuous deploys, phased releases |
-| **Around the code** | Scoping docs, phased proposals, Meta & TikTok ads for the clients we build for |
+| **Mobile** | Expo · React Native · native Google and Apple sign in |
+| **Backend** | Supabase (Postgres, Auth, Row Level Security, Storage) · PostHog |
+| **Desktop** | Electron operator apps, offline first, one shared Postgres |
+| **Ship** | Vercel · Turborepo · pnpm · continuous deploys, phased releases |
+| **Around the code** | Scoping docs, phased proposals, Meta and TikTok campaigns for the clients we build for |
 
-A few things I care about: bilingual and RTL from day one when the client needs it, systems that keep working when the venue's internet doesn't, and a boring, well-understood stack over a clever one.
+Three things I hold to: bilingual and RTL from day one when the client needs it, systems that keep working when the venue's internet does not, and a boring well understood stack over a clever one.
 
 <br>
 
 ## Let's talk
 
-If you're a small business that needs software that actually runs your operation — or a team that wants someone who ships — I'd like to hear from you.
+If you run a business that needs software to actually operate it, or you want someone on your team who ships every week, I'd like to hear from you.
 
-**[kagusoftware.com](https://kagusoftware.com)** · **[parsaa.mansourii@gmail.com](mailto:parsaa.mansourii@gmail.com)** · Istanbul
+<a href="https://kagusoftware.com"><img src="footer.svg" alt="kagusoftware.com, parsaa.mansourii@gmail.com, Istanbul" width="100%"></a>
 
-<br>
-
-<sub>Built with hand-made SVGs, no third-party stat widgets. Source for the assets is in this repo.</sub>
+<sub>Every graphic here is hand written SVG, generated by <code>build.py</code> in this repo. No third party stat widgets. The heatmap is my real GitHub calendar.</sub>

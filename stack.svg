@@ -1,0 +1,322 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="128" viewBox="0 0 1200 128" role="img" aria-label="Tools and technologies">
+<defs>
+<linearGradient id="mq-bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0B1730"/><stop offset="1" stop-color="#060D1B"/>
+</linearGradient>
+<radialGradient id="mq-glow" cx="0.5" cy="0.5" r="0.75">
+<stop offset="0" stop-color="#3D7BFF" stop-opacity="0.30"/>
+<stop offset="1" stop-color="#3D7BFF" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="mq-clip"><rect width="1200" height="128" rx="16"/></clipPath>
+</defs>
+<rect width="1200" height="128" rx="16" fill="url(#mq-bg)"/>
+<rect width="1200" height="128" rx="16" fill="url(#mq-glow)"/>
+<defs>
+<linearGradient id="mq-fade" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#0B1730" stop-opacity="1"/><stop offset="0.08" stop-color="#0B1730" stop-opacity="0"/>
+<stop offset="0.92" stop-color="#0B1730" stop-opacity="0"/><stop offset="1" stop-color="#0B1730" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<g clip-path="url(#mq-clip)">
+<g transform="translate(0 16)">
+<g>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1231 0" dur="34s" repeatCount="indefinite"/>
+<g><g transform="translate(0 0)">
+<rect x="0" y="0" width="105" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="60" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">TypeScript</text>
+</g><g transform="translate(119 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Next.js</text>
+</g><g transform="translate(214 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">React</text>
+</g><g transform="translate(294 0)">
+<rect x="0" y="0" width="121" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="67" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">React Native</text>
+</g><g transform="translate(429 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Expo</text>
+</g><g transform="translate(500 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Tailwind</text>
+</g><g transform="translate(603 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Supabase</text>
+</g><g transform="translate(707 0)">
+<rect x="0" y="0" width="105" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="60" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">PostgreSQL</text>
+</g><g transform="translate(826 0)">
+<rect x="0" y="0" width="168" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="91" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Row Level Security</text>
+</g><g transform="translate(1008 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Prisma</text>
+</g><g transform="translate(1095 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">tRPC</text>
+</g><g transform="translate(1167 0)">
+<rect x="0" y="0" width="50" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="32" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Zod</text>
+</g></g><g transform="translate(1231 0)"><g transform="translate(0 0)">
+<rect x="0" y="0" width="105" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="60" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">TypeScript</text>
+</g><g transform="translate(119 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Next.js</text>
+</g><g transform="translate(214 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">React</text>
+</g><g transform="translate(294 0)">
+<rect x="0" y="0" width="121" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="67" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">React Native</text>
+</g><g transform="translate(429 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Expo</text>
+</g><g transform="translate(500 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Tailwind</text>
+</g><g transform="translate(603 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Supabase</text>
+</g><g transform="translate(707 0)">
+<rect x="0" y="0" width="105" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="60" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">PostgreSQL</text>
+</g><g transform="translate(826 0)">
+<rect x="0" y="0" width="168" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="91" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Row Level Security</text>
+</g><g transform="translate(1008 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Prisma</text>
+</g><g transform="translate(1095 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">tRPC</text>
+</g><g transform="translate(1167 0)">
+<rect x="0" y="0" width="50" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="32" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Zod</text>
+</g></g><g transform="translate(2461 0)"><g transform="translate(0 0)">
+<rect x="0" y="0" width="105" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="60" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">TypeScript</text>
+</g><g transform="translate(119 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Next.js</text>
+</g><g transform="translate(214 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">React</text>
+</g><g transform="translate(294 0)">
+<rect x="0" y="0" width="121" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="67" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">React Native</text>
+</g><g transform="translate(429 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Expo</text>
+</g><g transform="translate(500 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Tailwind</text>
+</g><g transform="translate(603 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Supabase</text>
+</g><g transform="translate(707 0)">
+<rect x="0" y="0" width="105" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="60" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">PostgreSQL</text>
+</g><g transform="translate(826 0)">
+<rect x="0" y="0" width="168" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="91" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Row Level Security</text>
+</g><g transform="translate(1008 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Prisma</text>
+</g><g transform="translate(1095 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">tRPC</text>
+</g><g transform="translate(1167 0)">
+<rect x="0" y="0" width="50" height="38" rx="10" fill="#3D7BFF" fill-opacity="0.09" stroke="#3D7BFF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#3D7BFF"/>
+<text x="32" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Zod</text>
+</g></g>
+</g></g>
+<g transform="translate(0 72)">
+<g>
+<animateTransform attributeName="transform" type="translate" from="-1096 0" to="0 0" dur="42s" repeatCount="indefinite"/>
+<g><g transform="translate(0 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Vercel</text>
+</g><g transform="translate(87 0)">
+<rect x="0" y="0" width="97" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="56" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Turborepo</text>
+</g><g transform="translate(198 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">pnpm</text>
+</g><g transform="translate(270 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Node.js</text>
+</g><g transform="translate(365 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Python</text>
+</g><g transform="translate(453 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Electron</text>
+</g><g transform="translate(556 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">PostHog</text>
+</g><g transform="translate(651 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Stripe</text>
+</g><g transform="translate(739 0)">
+<rect x="0" y="0" width="121" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="67" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Meta Ads API</text>
+</g><g transform="translate(874 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Figma</text>
+</g><g transform="translate(953 0)">
+<rect x="0" y="0" width="50" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="32" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Git</text>
+</g><g transform="translate(1017 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">CI/CD</text>
+</g></g><g transform="translate(1096 0)"><g transform="translate(0 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Vercel</text>
+</g><g transform="translate(87 0)">
+<rect x="0" y="0" width="97" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="56" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Turborepo</text>
+</g><g transform="translate(198 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">pnpm</text>
+</g><g transform="translate(270 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Node.js</text>
+</g><g transform="translate(365 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Python</text>
+</g><g transform="translate(453 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Electron</text>
+</g><g transform="translate(556 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">PostHog</text>
+</g><g transform="translate(651 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Stripe</text>
+</g><g transform="translate(739 0)">
+<rect x="0" y="0" width="121" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="67" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Meta Ads API</text>
+</g><g transform="translate(874 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Figma</text>
+</g><g transform="translate(953 0)">
+<rect x="0" y="0" width="50" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="32" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Git</text>
+</g><g transform="translate(1017 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">CI/CD</text>
+</g></g><g transform="translate(2192 0)"><g transform="translate(0 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Vercel</text>
+</g><g transform="translate(87 0)">
+<rect x="0" y="0" width="97" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="56" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Turborepo</text>
+</g><g transform="translate(198 0)">
+<rect x="0" y="0" width="58" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="36" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">pnpm</text>
+</g><g transform="translate(270 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Node.js</text>
+</g><g transform="translate(365 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Python</text>
+</g><g transform="translate(453 0)">
+<rect x="0" y="0" width="89" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="52" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Electron</text>
+</g><g transform="translate(556 0)">
+<rect x="0" y="0" width="81" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="48" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">PostHog</text>
+</g><g transform="translate(651 0)">
+<rect x="0" y="0" width="73" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="44" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Stripe</text>
+</g><g transform="translate(739 0)">
+<rect x="0" y="0" width="121" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="67" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Meta Ads API</text>
+</g><g transform="translate(874 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Figma</text>
+</g><g transform="translate(953 0)">
+<rect x="0" y="0" width="50" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="32" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">Git</text>
+</g><g transform="translate(1017 0)">
+<rect x="0" y="0" width="66" height="38" rx="10" fill="#7FB0FF" fill-opacity="0.09" stroke="#7FB0FF" stroke-opacity="0.32"/>
+<circle cx="14" cy="19" r="3" fill="#7FB0FF"/>
+<text x="40" y="24" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#F2F5FA" fill-opacity="0.92">CI/CD</text>
+</g></g>
+</g></g>
+</g>
+<rect width="1200" height="128" rx="16" fill="url(#mq-fade)"/>
+<rect x="0.5" y="0.5" width="1199" height="127" rx="16" fill="none" stroke="#1C2B4A"/>
+</svg>
